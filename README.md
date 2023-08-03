@@ -1,7 +1,7 @@
 # mypersonalportfolio
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://main--vsotodevportfolio.netlify.app" target="_blank">Vsoto.tech</a>
+  <a href="https://main--vsotodevportfolio.netlify.app" target="_blank">Live Deployment</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
